@@ -28,7 +28,7 @@ body:
         - Agent Dashboard + AAA
         - Aardvark + Benchmark
         - Aardvark (Agents)
-      default: a
+      default: 0
     validations:
       required: true
   - type: textarea
