@@ -10,8 +10,6 @@ body:
     attributes:
       label: 'What is the request?'
       description: 'Please share any expected timelines, deadlines, expected impact, etc.'
-      placeholder: ''
-      # value: ""
     validations:
       required: true
   - type: dropdown
