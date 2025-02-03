@@ -1,6 +1,6 @@
 name: IMO / Agent Intake
-description: Any 
-title: "IMO: "
+description: Any
+title: ""
 labels: ["IMO"]
 projects: ["ZacheryFaria/2"]
 assignees:
@@ -9,9 +9,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
+      label: 'What is the request?'
+      description: 'Please share any expected timelines, deadlines, expected impact, etc.'
+      placeholder: ''
       # value: ""
     validations:
       required: true
